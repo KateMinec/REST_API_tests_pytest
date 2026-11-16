@@ -17,7 +17,7 @@
 ## 🚀 Установка и запуск
 
 ```bash
-git clone https://github.com
+git clone https://github.com/KateMinec/REST_API_tests_pytest
 cd REST_API_tests_pytest
 pip install -r requirements.txt
 pytest -v
